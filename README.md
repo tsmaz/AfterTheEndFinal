@@ -1,6 +1,6 @@
 Please note that imported assets were discluded from the project files due to the sheer size of them. 
 
-All scripts in this repo folder their state for our final submission.
+All scripts in this repo folder represent their state for our final submission.
 
 -Tony M
 
