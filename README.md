@@ -1,4 +1,4 @@
-Post-apocalyptic survival-horror prototype featuring resource scavengine, building, crafting, hunger/thirst mechanics, hostile AI, and a hand-built world.
+Post-apocalyptic survival-horror prototype featuring resource scavengine, building, crafting, hunger/thirst mechanics, hostile AI, a hand-built world, and an intuitive user interface.
 
 Game Design Document:
 https://docs.google.com/document/d/1uZ1lRRNk0VMlosRto4uAmST3jN9UUstPmN8-CBWDysc/edit?usp=sharing
