@@ -1,9 +1,7 @@
-Please note that imported assets were discluded from the project files due to the sheer size of them. 
+Post-apocalyptic survival-horror prototype featuring resource scavengine, building, crafting, hunger/thirst mechanics, hostile AI, and a hand-built world.
 
-All scripts in this repo folder represent their state for our final submission.
-
--Tony M
-
+Game Design Document:
+https://docs.google.com/document/d/1uZ1lRRNk0VMlosRto4uAmST3jN9UUstPmN8-CBWDysc/edit?usp=sharing
 
 Click the below image to go to our demo video:
 
